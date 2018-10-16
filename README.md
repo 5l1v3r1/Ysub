@@ -16,7 +16,7 @@ A PHP Script For Check YouTube Channel Subscribers
   - cd Ysub/
 
 # Usage:
-   - php ysub.php <Input YouTube Channel Url Here> And Hit Enter
+   - php ysub.php  (Input YouTube Channel Url Here) And Hit Enter
    
    - Example:
        * php ysub.php https://www.youtube.com/user/NoCopyrightSounds
