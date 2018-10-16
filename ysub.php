@@ -7,7 +7,6 @@ By  : Oseid Aldary
 // Started //
 
 // Msg Usage //
-
 if ( $argc < 2 ){
   print "
 db    db .d8888. db    db d8888b. 
@@ -20,7 +19,6 @@ db    db .d8888. db    db d8888b.
 ";
   exit( "[#] Youtube Subscribes Checker [#]\n[>]   Coded By: Oseid Aldary   [<]\n----------------------------------\nUsage: ysub.php <YouToube Channel Url>\n\n\n" );
 }
-
 // Config //
   print "
 db    db .d8888. db    db d8888b. 
@@ -29,7 +27,7 @@ db    db .d8888. db    db d8888b.
    88      `Y8b. 88    88 88~~~b. 
    88    db   8D 88b  d88 88   8D 
    YP    `8888Y' ~Y8888P' Y8888P' 
-
+   
 ";
 echo "\033[1;37m[\033[1;32m+\033[1;37m] Channel: \033[1;32m ".$argv[1]."\n";
 echo "\033[1;37m[\033[1;32m*\033[1;37m] Ysub Script:\033[1;32m Started\n";
@@ -48,6 +46,7 @@ while (1){
   echo "";
 }
 ?>
+
 /*
 ###############################################################
 ##################### 		      #########################
@@ -59,4 +58,3 @@ while (1){
 #Have a nice day :)
 #GoodBye
 */
-
